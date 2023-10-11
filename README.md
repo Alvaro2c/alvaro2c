@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Alvaro Carranza</h1>
 <h3 align="center">A Data Scientist / Data Analyst based in Madrid</h3>
 
-- 🔭 I’m currently working on [Spanish Public Procurement Database]((coming soon))
+- 🔭 I’m currently working on a Spanish Public Procurement Database based on [public available data](https://contrataciondelestado.es/wps/portal/plataforma) from the Spanish government (link available soon)
 
-- 🌱 I’m currently learning **Neural Networks from scratch, Airflow and PostgreSQL**
+- 🌱 I’m currently learning **Andrej Karpathy's [Neural Networks: Zero to Hero](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ), [Airflow](https://airflow.apache.org/) and [PostgreSQL](https://www.postgresql.org/)**
 
-- 👨‍💻 All of my projects are available at [(soon)]((soon))
-
+- 👨‍💻 All of my projects are available at (link available soon)
+  
 - 📫 How to reach me **alvarocarranzacarrion@gmail.com**
 
-- 📄 Know about my experiences [(soon)]((soon))
-
-- ⚡ Fun fact **I play bass and write music on my free time!**
+- 📄 Know about my experiences (link available soon)
+  
+- ⚡ Fun fact: **I play bass 🎸 and write music 🎼 !** You can check out my instrumental jazz fusion trio [@YEITUEI](https://www.instagram.com/yeituei/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
