@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Andrej Karpathy's [Neural Networks: Zero to Hero](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ), [Airflow](https://airflow.apache.org/) and [PostgreSQL](https://www.postgresql.org/)**
 
-- 👨‍💻 All of my projects are available at (link available soon)
+- 👨‍💻 All of my projects are available at [https://alvaro2c.github.io/](https://alvaro2c.github.io/)
   
 - 📫 How to reach me **alvarocarranzacarrion@gmail.com**
 
