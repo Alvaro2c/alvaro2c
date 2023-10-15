@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Andrej Karpathy's [Neural Networks: Zero to Hero](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ), [Airflow](https://airflow.apache.org/) and [PostgreSQL](https://www.postgresql.org/)**
 
-- 👨‍💻 All of my projects are available at [https://alvaro2c.github.io/](https://alvaro2c.github.io/)
+- 👨‍💻 You can see my work and projects at [https://alvaro2c.github.io/](https://alvaro2c.github.io/)
   
 - 📫 How to reach me **alvarocarranzacarrion@gmail.com**
 
-- 📄 Know about my experiences (link available soon)
+- 📄 Know about my experiences ([here](https://alvaro2c.github.io/cv))
   
 - ⚡ Fun fact: **I play bass 🎸 and write music 🎼 !** You can check out my instrumental jazz fusion trio [@YEITUEI](https://www.instagram.com/yeituei/)
 
