@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alvaro Carranza</h1>
 <h3 align="center">A Data Scientist / Data Analyst based in Madrid</h3>
 
-- 🔭 I’m currently working on a Spanish Public Procurement Database based on [public available data](https://contrataciondelestado.es/wps/portal/plataforma) from the Spanish government (link available soon)
+- 🔭 I’m currently working on a Spanish Public Procurement Database based on [public available data](https://contrataciondelestado.es/wps/portal/plataforma) from the Spanish government (link available soon) and a dashboard ([PRTR Data](https://prtr-data.streamlit.app/)) with aggregated data from tenders financed with the Recovery and Resilience Facility (RRF) in Spain.
 
 - 🌱 I’m currently learning **Andrej Karpathy's [Neural Networks: Zero to Hero](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ), [Airflow](https://airflow.apache.org/) and [PostgreSQL](https://www.postgresql.org/)**
 
