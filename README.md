@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a Spanish Public Procurement Database based on [public available data](https://contrataciondelestado.es/wps/portal/plataforma) from the Spanish government (link available soon) and a dashboard ([PRTR Data](https://prtr-data.streamlit.app/)) with aggregate data from tenders financed with the Recovery and Resilience Facility (RRF) in Spain.
 
-- 🌱 I’m currently learning **Andrej Karpathy's [Neural Networks: Zero to Hero](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ), [Airflow](https://airflow.apache.org/) and [PostgreSQL](https://www.postgresql.org/)**
+- 🌱 I’m currently learning **DeepLearning.AI [Data Engineering Professional Certificate](https://www.deeplearning.ai/courses/data-engineering/)**
 
 - 👨‍💻 You can see my work and projects at [https://alvaro2c.github.io/](https://alvaro2c.github.io/)
   
